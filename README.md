@@ -2,6 +2,12 @@
 
 We're glad you're here! Use this page as a resource to simplify your life.
 
+### Scoreboard
+
+* **Kingdom of the Iron Hills**: 0
+* **Kingdom of the High Castle**: 0
+* **Kingdom of the East Isles**: 0
+
 ### Links
 
 * [Dining Hall Hours](https://www.gatechdining.com/dining-choices/hoursofoperation.html)
