@@ -10,7 +10,7 @@ We're glad you're here! Use this page as a resource to simplify your life.
 
 ### Calendar
 
-* [Google Calendar](https://calendar.google.com/calendar/embed?src=smithfloor2%40gmail.com&ctz=America/New_York) displaying upcoming campus / off-campus / floor events. Use [this link](https://calendar.google.com/calendar/ical/smithfloor2%40gmail.com/public/basic.ics) to add our calendar to your own calendar.
+* [Google Calendar](https://calendar.google.com/calendar/embed?src=smithfloor2%40gmail.com&ctz=America/New_York) displaying all upcoming events. Use [this link](https://calendar.google.com/calendar/ical/smithfloor2%40gmail.com/public/basic.ics) to add our calendar to your own calendar.
 
 ### Links
 
