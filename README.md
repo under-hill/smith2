@@ -10,7 +10,7 @@ We're glad you're here! Use this page as a resource to simplify your life.
 
 ### Calendar
 
-* [Google Calendar](https://calendar.google.com/calendar/embed?src=smithfloor2%40gmail.com&ctz=America/New_York) displaying upcoming campus / off-campus / floor events. Use [this link](https://calendar.google.com/calendar/ical/smithfloor2%40gmail.com/public/basic.ics) to add the calendar to your own Google Calendar.
+* [Google Calendar](https://calendar.google.com/calendar/embed?src=smithfloor2%40gmail.com&ctz=America/New_York) displaying upcoming campus / off-campus / floor events. Use [this link](https://calendar.google.com/calendar/ical/smithfloor2%40gmail.com/public/basic.ics) to add our calendar to your own calendar.
 
 ### Links
 
@@ -27,6 +27,7 @@ We're glad you're here! Use this page as a resource to simplify your life.
 * GTPD: 404.894.2500
 * Office of Information Technology: 404.894.7173
 * Post Office: 404.894.4560
+* PL on Duty: 404.630.3557
 * Stamps Health Services: 404.894.1420
 * Student Success Center: 404.894.0317
 
