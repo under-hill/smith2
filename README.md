@@ -8,6 +8,10 @@ We're glad you're here! Use this page as a resource to simplify your life.
 * **Kingdom of the High Castle**: 0
 * **Kingdom of the East Isles**: 0
 
+### Calendar
+
+* [Google Calendar](https://calendar.google.com/calendar/embed?src=smithfloor2%40gmail.com&ctz=America/New_York) displaying upcoming campus / off-campus / floor events.
+
 ### Links
 
 * [Dining Hall Hours](https://www.gatechdining.com/dining-choices/hoursofoperation.html)
@@ -25,6 +29,10 @@ We're glad you're here! Use this page as a resource to simplify your life.
 * Post Office: 404.894.4560
 * Stamps Health Services: 404.894.1420
 * Student Success Center: 404.894.0317
+
+### Feedback
+
+* Feel free to use [this](https://docs.google.com/forms/d/e/1FAIpQLScEfk0yeNIrWU_0kXT6fWnUgYLpwyC5Gr16AxgIEeOZrwiw-w/viewform?usp=sf_link) anonymous Google Form to give us feedback.
 
 ### Anything Else?
 
