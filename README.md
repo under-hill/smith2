@@ -9,9 +9,9 @@ We're glad you're here! Use this page as a resource to simplify your life.
 * **Kingdom of the Phoenix Isles**: 0
 
 
-|         | Iron Hills | High Castle | Phoenix Isles |
-| ------- |:----------:|:-----------:|:-------------:|
-| Smash   | Winner     | Runner Up   | They Tried    |
+|            | Iron Hills | High Castle | Phoenix Isles |
+| ---------- |:----------:|:-----------:|:-------------:|
+| Smash 9/19 | Winner     | Runner Up   | They Tried    |
 
 ### Calendar
 
