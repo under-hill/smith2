@@ -13,6 +13,10 @@ We're glad you're here! Use this page as a resource to simplify your life.
 | ---------- |:----------:|:-----------:|:-------------:|
 | Smash 9/19 | Winner     | Runner Up   | They Tried    |
 
+### Classes
+
+* [Fall 2017 Classes](https://goo.gl/forms/n3Iz9AV0uEfok5cq1)
+
 ### Calendar
 
 * [Google Calendar](https://calendar.google.com/calendar/embed?src=smithfloor2%40gmail.com&ctz=America/New_York) displaying all upcoming events. Use [this link](https://calendar.google.com/calendar/ical/smithfloor2%40gmail.com/public/basic.ics) to add our calendar to your own calendar.
