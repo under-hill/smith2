@@ -4,9 +4,14 @@ We're glad you're here! Use this page as a resource to simplify your life.
 
 ### Scoreboard
 
-* **Kingdom of the Iron Hills**: 0
-* **Kingdom of the High Castle**: 0
+* **Kingdom of the Iron Hills**: 3
+* **Kingdom of the High Castle**: 1
 * **Kingdom of the East Isles**: 0
+
+
+|         | Iron Hills    | High Castle | Phoenix Isles |
+| ------- |:-------------:|:-----------:|:-------------:|
+| Smash   | Winner        | Runner Up   | They Tried    |
 
 ### Calendar
 
