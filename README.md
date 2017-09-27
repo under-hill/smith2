@@ -4,14 +4,15 @@ We're glad you're here! Use this page as a resource to simplify your life.
 
 ### Scoreboard
 
-* **Kingdom of the Iron Hills**: 3
-* **Kingdom of the High Castle**: 1
+* **Kingdom of the Iron Hills**: 4
+* **Kingdom of the High Castle**: 4
 * **Kingdom of the Phoenix Isles**: 0
 
 
-|            | Iron Hills | High Castle | Phoenix Isles |
-| ---------- |:----------:|:-----------:|:-------------:|
-| Smash 9/19 | Winner     | Runner Up   | They Tried    |
+|                | Iron Hills | High Castle | Phoenix Isles |
+| -------------- |:----------:|:-----------:|:-------------:|
+| Smash 9/19     | Winner     | Runner Up   | They Tried    |
+| SpikeBall 9/24 | Runner Up  | Winner      | They Tried    |
 
 ### Classes
 
