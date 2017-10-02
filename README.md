@@ -41,6 +41,14 @@ We're glad you're here! Use this page as a resource to simplify your life.
 * Stamps Health Services: 404.894.1420
 * Student Success Center: 404.894.0317
 
+### Floor Community Expectations
+
+* **Cleanliness**: Things left in the fridge after one week will be thrown out for groceries, must have name and date attached to food. Three to four days will be allowed for leftovers, and over a week for frozen goods. Dishes left in the community sink for over 24 hours will be confiscated by Maintenance. Clothes in the bathroom should be picked up, no underwear should be left in the showers, and there should be no personal trash left around the on floor. An attempt should be made to unclog toilets yourself should you clog them. Trash should not be in the stairwells. The Lounge should be cleaned up after every use and the community trash cans should not be used for large trash, i.e. pizza boxes.
+
+* **Quiet Hours**: Quiet Hours will be from 10:30 PM to 8:00 AM on weeknights, and 1 AM to 10 AM on weekends. The Lounge will now be a designated study space for all floors except on the weekends from 8PM Friday to 8PM Sunday. 
+
+* **Contact**: For future meetings and events, the preferred way to contact the residents is through Flyers, Email, and GroupMe. Any complaints or anonymous reports should be filed through the Smith 2nd Floor website, and once a trend is noticed for a particular area of concern a meeting will be called to address it. 
+
 ### Feedback
 
 * Feel free to use [this](https://docs.google.com/forms/d/e/1FAIpQLScEfk0yeNIrWU_0kXT6fWnUgYLpwyC5Gr16AxgIEeOZrwiw-w/viewform?usp=sf_link) anonymous Google Form to give us feedback.
