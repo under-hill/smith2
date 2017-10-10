@@ -14,9 +14,9 @@ We're glad you're here! Use this page as a resource to simplify your life.
 | Smash 9/19     | Winner     | Runner Up   | They Tried    |
 | SpikeBall 9/24 | Runner Up  | Winner      | They Tried    |
 
-### Classes
+### Spreadsheets
 
-* [Fall 2017 Classes](https://goo.gl/forms/n3Iz9AV0uEfok5cq1)
+* [Floor Spreadsheets](https://goo.gl/forms/n3Iz9AV0uEfok5cq1) (classes, outings, etc.)
 
 ### Calendar
 
